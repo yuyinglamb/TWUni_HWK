@@ -1,0 +1,13 @@
+<!doctype html>
+<html>
+<head>    
+<meta charset="UTF-8">    
+<title>Hello World!</title></head>
+<body>    
+<div style="text-align:center">學
+  <p>HTML</p>好好玩
+  </div>    
+<br>    <a href="ex01.html" target="_new">第二堂課作業</a></body></html>
+
+</body>
+</html>
