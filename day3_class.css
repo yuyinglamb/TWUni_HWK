@@ -1,0 +1,39 @@
+#rect{
+  width:0px;
+  width:0pxx;
+  background:lightblue;
+  border:50px solid green;
+  border-right: 50px solid red;
+  border-left:50px solid yellow;
+  border-bottom:50px solid blue;
+  
+}
+#rect{
+  width:0px;
+  width:0pxx;
+  background:lightblue;
+  border:50px solid green;
+  border-right: 50px solid red;
+  border-left:50px solid yellow;
+  border-bottom:50px solid blue;
+  
+}
+#rect2{
+  width:0px;
+  width:0pxx;
+  /*background lightblue;*/
+  border-top:50px solid transparent;
+  border-right: 50px solid red transparent;
+  border-left:50px solid yellow;
+  border-bottom:50px solid blue;
+  }
+#rect3{
+  width:0px;
+  width:0pxx;
+  /*background lightblue;*/
+  border-top:50px solid;
+  border-right: 50px solid red transparent;
+  border-left:50px solid yellow;
+  border-bottom:50px solid blue;
+  }
+
